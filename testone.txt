@@ -1,2 +1,2 @@
 初始化本地库，进行测试。随后与远程库建立连接，进行最后的测试
-test ssh login
+test ssh login good
